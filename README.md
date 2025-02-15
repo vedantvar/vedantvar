@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C++
 - 👯 I’m looking to collaborate on MACHINE LEARNING
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about VAr
